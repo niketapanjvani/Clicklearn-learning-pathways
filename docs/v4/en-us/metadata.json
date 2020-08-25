@@ -1,46 +1,53 @@
 {
   "Technologies": [
+    
     {
-      "Id": "1bc58e88-3db7-4a15-ad19-b3b0ab606a53",
-      "Name": "Learning Pathways",
-      "Subjects": []
-    },
-    {
-      "Id": "24a63b0c-4f0e-4565-93d7-9b8a981e960f",
-      "Name": "Multilingual",
-      "Subjects": []
-    },
-    {
-      "Id": "c946268b-7fa1-4778-8e85-2b65b5186947",
-      "Name": "PnP",
+      "Id": "e75b9087-6bb2-417f-a696-e667bea533a7",
+      "Name": "Outlook",
       "Subjects": [
         {
-          "Id": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a13",
-          "Name": "SPFx Generator"
-        },
-        {
-          "Id": "988803d4-3979-41e8-ba3f-1242324b0688",
-          "Name": "Provisioning"
+          "Id": "f1b531e0-2a62-4007-8858-08bd8be6ecae",
+          "Name": "Outlook"
         }
+      ]
+    },
+    {
+      "Id": "c209f64e-0291-437a-9615-17747eab50d0",
+      "Name": "Microsoft Teams",
+      "Subjects": [
+        {
+          "Id": "3bd4b767-148f-4f53-a206-b42e9f3a73cd",
+            "Name": "Teams"
+        }
+       
       ]
     }
   ],
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Recent PnP Learnings",
+      "Name": "Get started",
       "Image": "",
-      "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+      "TechnologyId": "",
       "SubjectId": "",
-      "Source": "JulieTurner",
+      "Source": "Microsoft",
       "SubCategories": [
         {
-          "Id": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
-          "Name": "PnP Remote Provisioning",
-          "Image": "images/categories/remote.png",
-          "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-          "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-          "Source": "JulieTurner",
+          "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+          "Name": "Outlook",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+          "Name": "Teams",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
           "SubCategories": []
         }
       ]
@@ -48,51 +55,109 @@
   ],
   "Audiences": [
     {
-      "Id": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
-      "Name": "Developer"
+      "Id": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
+      "Name": "Admin"
     },
     {
-      "Id": "922979ef-2f63-4cfa-9f70-5b36bf1f1c13",
-      "Name": "IT Admin"
+      "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
+      "Name": "HelpDesk"
+    },
+    {
+      "Id": "97150537-2c2f-42f9-8bc6-73e68fda0d38",
+      "Name": "Change Manager"
+    },
+    {
+      "Id": "304b216c-ea4d-436c-83f8-93ba1319943b",
+      "Name": "Champions/Trainer"
+    },
+    {
+      "Id": "d093e0b6-b9f1-4b46-877c-0a49e989ee40",
+      "Name": "Executive Assistant"
+    },
+    {
+      "Id": "c92ae45b-8770-48f6-8870-3ec74a310da7",
+      "Name": "VIP"
+    },
+    {
+      "Id": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+      "Name": "End User"
+    },
+    {
+      "Id": "e22b05b1-e778-4c97-9646-b8933c209772",
+      "Name": "Content Editor"
+    },
+    {
+      "Id": "f110eb03-e899-46a9-83be-8f507dae83c1",
+      "Name": "Content Manager"
+    },
+    {
+      "Id": "a8787978-0ee5-4bc6-9c2c-eb11fc47cbfd",
+      "Name": "Group Owner"
+    },
+    {
+      "Id": "e2fce8e0-2014-4e36-81a5-0723b85958f8",
+      "Name": "Site Sponsor"
+    },
+    {
+      "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "Name": "All"
     }
   ],
   "Sources": [
-    "JulieTurner"
+    "SOC",
+    "FastTrack",
+    "M365",
+    "Microsoft",
+    "LinkedIn"
   ],
   "Levels": [
     {
-      "Id": "5a958086-473d-46b3-92eb-c1e09c34263c",
+      "Id": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
       "Name": "Beginner"
     },
     {
-      "Id": "7e98bcb4-85bd-4b78-9823-3283dab21064",
+      "Id": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
       "Name": "Intermediate"
     },
     {
-      "Id": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+      "Id": "fbc841eb-1082-4c27-b13b-f7965947cb16",
       "Name": "Advanced"
     }
   ],
   "StatusTag": [
     {
-      "Id": "164d99ed-c638-4dbb-8295-781312dee721",
+      "Id": "c11c485b-496d-479b-88a3-1744a7a028d7",
       "Name": "New"
     },
     {
-      "Id": "88c75433-02c4-4aab-9606-900fe099ea16",
+      "Id": "9d1fab25-ed9c-404e-941b-41e428d18726",
       "Name": "Updated"
     },
     {
-      "Id": "83289991-44b8-4274-943a-9b8dcfcb94f9",
+      "Id": "90fe6290-e063-4778-a8a1-7531c2a0a40e",
       "Name": "Retiring"
     },
     {
-      "Id": "45d78306-16fb-4ad4-affd-5314715a0323",
+      "Id": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
       "Name": "Retired"
     },
     {
-      "Id": "78d72d69-8c00-4abd-a089-806d7822b250",
+      "Id": "42be48f6-1f82-4fda-a757-add2499677d9",
       "Name": "Beta"
     }
+  ],
+  "Telemetry": {
+    "AppInsightKey": "089e14f6-1341-44b8-9135-71b3e326e914"
+  },
+  "Version": {
+    "Manifest": "v3",
+    "ManifestMinWebPart": "3.0.0",
+    "CurrentWebPart": "3.0.0",
+    "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
+  },
+  "ContentPacks": [],
+  "AssetOrigins": [
+    "https://support.office.com",
+    "https://docs.microsoft.com"
   ]
 }
