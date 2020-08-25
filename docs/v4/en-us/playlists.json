@@ -1,39 +1,36 @@
 [
   {
     "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
-    "Title": "Recording1",
-    "Image": "images/playlists/remotesite.png",
-    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
-    "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
-    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "niketa",
-    "CatId": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
-    "Description": "Learn all about Recording.",
+    "Title": "Outlook",
+    "Image": "images/playlists/share_and_coauthor.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "71ec9903-1498-49e2-8514-428e35617b18",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
+    "Description": "Learn about outlook.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      
-            "3b72f30f-1438-4551-b009-8ad6f7d924a2"
-     
+      "28dad67b-adb8-4df5-822b-677d81968eda"
     ]
   },
   {
-    "Id": "7ea7584c-1d5f-456e-8bd8-607bcdbc747f",
-    "Title": "Recording 2",
-    "Image": "images/playlists/remotesite.png",
-    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
-    "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
-    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "niketa",
-    "CatId": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
-    "Description": "Learn all about Recording.",
+    "Id": "d9ce4776-272c-4b62-8f17-d71326e71230",
+    "Title": "Teams",
+    "Image": "images/playlists/forms_quick_startx.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "71ec9903-1498-49e2-8514-428e35617b18",
+    "TechnologyId": "309b4120-9366-4257-bc06-1d9dd090fe85",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "daeade40-9dfc-4d82-84be-9ae7544829dc",
+    "Description": "Learn about teams.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "9faefc4b-60e8-46ef-892c-791e030a8d28",
-      "8dcba564-d82a-4220-b5ad-f2f55f67fa29"
+      "39a23830-452d-474c-ae1f-47a6ebefa21a"
     ]
   }
 ]
