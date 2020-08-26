@@ -2,17 +2,17 @@
    "Technologies": [
       {
          "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
-         "Name": "Teams",
+         "Name": "Teams tec",
          "Subjects": []
       },
       {
          "Id": "33059862-a87d-4b40-9984-be7c6083cf95",
-         "Name": "Excel",
+         "Name": "Excel tec",
          "Subjects": []
       },
       {
          "Id": "59989021-e9d3-43dc-9a99-0c2b5878b609",
-         "Name": "Portal",
+         "Name": "Portal tec",
          "Subjects": []
       }
    ],
