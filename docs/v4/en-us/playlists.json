@@ -2,7 +2,7 @@
    {
       "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
       "Title": "Teams",
-      "Image": "images/playlists/share_and_coauthor.png",
+      "Image": "Images/teams.png",
       "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
       "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
       "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
@@ -21,7 +21,7 @@
     {
       "Id": "2fe834b0-e71a-49e6-a980-204c608026a5",
       "Title": "Excel",
-      "Image": "images/playlists/forms_quick_startx.png",
+      "Image": "Images/Excel.png",
       "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
       "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
       "TechnologyId": "33059862-a87d-4b40-9984-be7c6083cf95",
@@ -38,7 +38,7 @@
    {
       "Id": "c186b125-d825-4111-a330-257aa4d5180f",
       "Title": "Portal",
-      "Image": "images/playlists/forms_quick_startx.png",
+      "Image": "Images/Excel.png",
       "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
       "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
       "TechnologyId": "59989021-e9d3-43dc-9a99-0c2b5878b609",
