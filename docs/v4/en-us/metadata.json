@@ -24,6 +24,9 @@
          "TechnologyId": "",
          "SubjectId": "",
          "Source": "Microsoft",
+         "SubCategories": [
+           
+         ]
       }
    ],
    "Sources": [
