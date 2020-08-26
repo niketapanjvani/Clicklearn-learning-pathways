@@ -1,7 +1,7 @@
 [
    {
       "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
-      "Title": "Teams",
+      "Title": "Teams playlist",
       "Image": "images/playlists/share_and_coauthor.png",
       "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
       "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -20,7 +20,7 @@
    },
     {
       "Id": "2fe834b0-e71a-49e6-a980-204c608026a5",
-      "Title": "Excel",
+      "Title": "Excel playlist",
       "Image": "images/playlists/forms_quick_startx.png",
       "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
       "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -37,7 +37,7 @@
    },
    {
       "Id": "c186b125-d825-4111-a330-257aa4d5180f",
-      "Title": "Portal",
+      "Title": "Portal playlist",
       "Image": "images/playlists/forms_quick_startx.png",
       "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
       "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
