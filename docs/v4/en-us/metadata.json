@@ -27,7 +27,7 @@
          "SubCategories": [
             {
                "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-               "Name": "Hindi",
+               "Name": "Teams",
                "Image": "images/categories/first_days.png",
                "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
                "SubjectId": null,
@@ -36,7 +36,7 @@
             },
             {
                "Id": "d91e99dd-5f0e-4294-a1dd-6222212d172b",
-               "Name": "Danish",
+               "Name": "Excel",
                "Image": "images/categories/first_days.png",
                "TechnologyId": "33059862-a87d-4b40-9984-be7c6083cf95",
                "SubjectId": null,
@@ -45,7 +45,7 @@
             },
             {
                "Id": "e82ed816-d90e-44c1-b06e-10136cc323f0",
-               "Name": "English",
+               "Name": "Portal",
                "Image": "images/categories/first_days.png",
                "TechnologyId": "59989021-e9d3-43dc-9a99-0c2b5878b609",
                "SubjectId": null,
