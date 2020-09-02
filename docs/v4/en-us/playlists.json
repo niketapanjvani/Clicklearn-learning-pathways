@@ -21,7 +21,7 @@
     {
       "Id": "2fe834b0-e71a-49e6-a980-204c608026a5",
       "Title": "Excel",
-      "Image": "CLLogo/cl-wallpaper-05.png",
+      "Image": "Images/Excel.png",
       "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
       "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
       "TechnologyId": "33059862-a87d-4b40-9984-be7c6083cf95",
@@ -38,7 +38,7 @@
    {
       "Id": "c186b125-d825-4111-a330-257aa4d5180f",
       "Title": "Portal",
-      "Image": "Images/Excel.png",
+      "Image": "CLLogo/cl-wallpaper-05.png",
       "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
       "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
       "TechnologyId": "59989021-e9d3-43dc-9a99-0c2b5878b609",
