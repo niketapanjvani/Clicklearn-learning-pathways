@@ -1,0 +1,56 @@
+[
+   {
+      "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
+      "Title": "Teams",
+      "Image": "Images/teams.png",
+      "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+      "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "CatId": "ca9caf7c-bc92-459a-a6af-35f0e6af8f06",
+      "Description": "Lær om Teams.",
+      "StatusTagId": "",
+      "StatusNote": "",
+      "Assets": [
+         "28dad67b-adb8-4df5-822b-677d81968eda",
+         "ad53c07f-9b48-4875-ad4d-12dbc8a3428b",
+         "5799661d-eb4c-4716-8e24-1a73a7e46d5b"
+      ]
+   },
+    {
+      "Id": "2fe834b0-e71a-49e6-a980-204c608026a5",
+      "Title": "Excel",
+      "Image": "Images/Excel.png",
+      "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "TechnologyId": "33059862-a87d-4b40-9984-be7c6083cf95",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "CatId": "ca9caf7c-bc92-459a-a6af-35f0e6af8f06",
+      "Description": "Lær om Excel.",
+      "StatusTagId": "",
+      "StatusNote": "",
+      "Assets": [
+         "39a23830-452d-474c-ae1f-47a6ebefa21a"
+      ]
+   },
+   {
+      "Id": "c186b125-d825-4111-a330-257aa4d5180f",
+      "Title": "Portal",
+      "Image": "CLLogo/cl-wallpaper-05.png",
+      "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "TechnologyId": "59989021-e9d3-43dc-9a99-0c2b5878b609",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "CatId": "ca9caf7c-bc92-459a-a6af-35f0e6af8f06",
+      "Description": "Lær om Portal.",
+      "StatusTagId": "",
+      "StatusNote": "",
+     "Assets": [
+         "f7910322-a8f9-4ccf-aa0f-1e8a0f02c9db",
+         "0935eea3-1195-4104-943d-1f8dac53804e"
+      ]
+   }
+]
